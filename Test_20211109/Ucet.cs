@@ -6,6 +6,7 @@ namespace Test_20211109
 {
     class Ucet
     {
+        //mně se smazal ten formulář
         public string jmeno;
         public int stav;
         public int max = 200000;
