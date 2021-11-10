@@ -7,6 +7,7 @@ namespace Test_20211109
     class Ucet
     {
         //mně se smazal ten formulář
+        //otevřel jsem program na jiném školním počítači a ten formulář zde byl, ale byla zde 1 chyba, tak jsem ji opravil ale je zde stará verze visual studia, takže to nešlo dát na git, tak jsem kód upravil přímo na gitu
         public string jmeno;
         public int stav;
         public int max = 200000;
