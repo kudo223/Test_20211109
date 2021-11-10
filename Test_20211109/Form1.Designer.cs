@@ -148,7 +148,6 @@
             this.button_limit_vyber.TabIndex = 11;
             this.button_limit_vyber.Text = "Přidat limit na výběr peněz";
             this.button_limit_vyber.UseVisualStyleBackColor = true;
-            this.button_limit_vyber.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
